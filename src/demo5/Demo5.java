@@ -16,6 +16,8 @@ public class Demo5 {
      */
     public static void main(String[] args) {
        String peter = "Jeg hedder Peter";
+       
+    //haehhejehjaj
     }
     
 }
